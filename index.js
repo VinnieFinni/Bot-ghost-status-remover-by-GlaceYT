@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Support gebraucht?","Ticket Öffnen!"];
+const statusMessages = ["🧡 Nero-V on Top!🧡","🧡Kommt auf Nero-V!🧡"];
 
 
 let currentIndex = 0;
